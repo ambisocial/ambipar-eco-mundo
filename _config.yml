@@ -1,0 +1,17 @@
+title: "Eco Mundo"
+description: "notícias rápidas sobre meio ambiente"
+baseurl: "/ambipar-eco-mundo"
+url: "https://ambisocial.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+permalink: /:year/:month/:day/:title/
+author:
+  name: "Redação Eco Mundo"
+  email: "contato@ambipar-eco-mundo.com"
+social:
+  name: Eco Mundo
+  links:
+    - https://github.com/ambisocial/ambipar-eco-mundo
