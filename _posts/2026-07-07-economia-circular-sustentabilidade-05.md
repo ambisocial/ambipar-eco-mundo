@@ -1,9 +1,9 @@
 ---
-layout: post
 title: "Economia Circular no Brasil: Por que Empresas de Gestão de Resíduos Valorizam Acima da Média"
-date: 2026-07-07
+date: 2026-07-07 10:34:00 -0300
+categories: [Sustentabilidade, Economia Circular]
+tags: [economia-circular, gestao-ambiental, inovacao, esg]
 author: Bruno Souza
-tags: ["economia-circular", "residuos", "coprocessamento", "circular-pack"]
 ---
 
 # Economia Circular no Brasil: Por que Empresas de Gestão de Resíduos Valorizam 20% a 40% Acima da Média
